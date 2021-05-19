@@ -1,5 +1,3 @@
-# Pandas_Homework
-
 # Stock Portfolio analysis
 
 This script analyzes the performance of the input portfolio and compares the data to the benchmark portfolio S&P500. 
